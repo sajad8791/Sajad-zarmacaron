@@ -29,13 +29,47 @@ body {
 .header .wrapper .top-menu {
     display: flex;
     gap: 60px;
+    color: white;
+    font-size: 18px;
 }
-
-.header .wrapper .menu-item:hover {
+.second-menu-top-menu{
+    color: white;
+    display: flex;
+    gap: 60px;
+    font-size: 18px;
+}
+.menu-item-1{
+     color: #e2c582;
+     cursor: pointer;
+}
+.menu-item-2:hover{
+     color: #e2c582;
+     cursor:auto;
+}
+.menu-item-3:hover{
+    color: #e2c582;
+    cursor: auto;
+}
+.menu-item-4:hover{
     color: #e2c582;
     cursor: pointer;
 }
-
+.menu-item-5:hover{
+    color: #e2c582;
+    cursor: pointer;
+}
+.menu-item-6:hover{
+    color: #e2c582;
+    cursor: auto;
+}
+.menu-item-7:hover{
+    color: #e2c582;
+    cursor: pointer;
+}
+.menu-item-8:hover{
+    color: #e2c582;
+    cursor: pointer;
+}
 #aks1 {
     display: block;
     margin: 0 auto;
