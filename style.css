@@ -245,11 +245,12 @@ td {
 
 }
 
-a {
+.link-1{
     color: #444444;
+    text-decoration: none;
 }
 
-a:hover {
+.link-1:hover {
     color: #e71;
     cursor: pointer;
 }
@@ -300,9 +301,15 @@ p{
     padding: 30px 30px 30px 30px;
     margin-left: -24px;
 }
-.link{
+.link-2{
     color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    display: block;
 }
-.link:hover{
-    cursor: pointer;;
+.link-2:hover{
+    cursor: pointer;
+}
+#matn{
+    font-size: 45px;
 }
