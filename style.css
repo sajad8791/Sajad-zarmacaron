@@ -2,6 +2,7 @@
     width: 100%;
     height: 110px;
     background-color: #003365;
+   
 }
 
 html,
@@ -88,29 +89,24 @@ body {
 #aks2 {
     display: block;
     margin: 20 auto;
-    width: 65%;
-    height: 55%;
+    width: 75%;
+    height: 60%;
     padding: 1px;
     border-radius: 20px;
 }
-
-h1 {
+.text-2 {
     margin: 60px;
     padding: 10px;
     font-size: 26px;
-    font-family: 'IRANSansFaNum' !important;
+    font-family: B Nazanin;
     color: #444444;
     line-height: 30px;
     letter-spacing: 0px;
     margin-bottom: -73px;
-}
-
-.text-2 {
     position: relative;
-    padding-right: 220px !important;
+    padding-right: 146px !important;
     text-align: right;
     /*border-bottom: 2px solid #e2c582;*/
-    
 }
 
 img {
@@ -240,8 +236,7 @@ td {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: iranian sans;
-    font-size: 18spx;
+    font-size: 18px;
 
 }
 
@@ -259,7 +254,7 @@ h2 {
     margin: 60px;
     padding: 10px;
     font-size: 26px;
-    font-family: 'IRANSansFaNum' !important;
+    font-family: B Nazanin;
     color: #444444;
     line-height: 25px;
     letter-spacing: 0px;
@@ -268,9 +263,10 @@ h2 {
 
 .text-3 {
     position: relative;
-    padding-right: 220px !important;
+    padding-right: 136px !important;
     text-align: right;
     margin-top: -30px;
+
 }
 
 #aks12 {
@@ -286,19 +282,20 @@ h2 {
 }
 .text-4{
     padding-left: 65%;
-    margin-top: -518px;
+    margin-top: -511px;
 }
 p{
-    font-size: 18px;
-    max-width: 318px;
+    display: block;
+    font-size: 16px;
+    max-width: 350px;
     text-align: justify;
-    font-family: IRANSans;
+    font-family:Vazirmatn SemiBold;
     color:#ffffff;
     line-height: 38px;
     background-color: rgb(2 54 102 / 78%);
     border-radius: 15px;
     margin-top: 10px;
-    padding: 30px 30px 30px 30px;
+    padding: 15px 30px 12px 30px;
     margin-left: -24px;
 }
 .link-2{
@@ -306,10 +303,14 @@ p{
     text-decoration: none;
     text-align: center;
     display: block;
+    font-size: 13px;
 }
-.link-2:hover{
-    cursor: pointer;
-}
-#matn{
-    font-size: 45px;
+.text-5{
+    font-size: 28px;
+    padding-right: 175px;
+    text-align: right;
+    margin-top: 150px;
+    float: right;
+    color: #444444;
+    font-family: B Nazanin;
 }
