@@ -4,7 +4,6 @@
     background-color: #003365;
    
 }
-
 html,
 body {
     margin: 0;
@@ -20,24 +19,30 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    position: fixed;
+    margin-left: 20%;
+    gap: 118px;
 }
 
 .header .wrapper .menu-item {
     color: #fff;
-    font-size: 18px;
+    font-size: 15px;
+    font-family:Vazirmatn;
 }
 
 .header .wrapper .top-menu {
     display: flex;
-    gap: 60px;
+    gap: 37px;
     color: white;
-    font-size: 18px;
+    font-size: 15px;
+    font-family:  Vazirmatn;
 }
 .second-menu-top-menu{
     color: white;
     display: flex;
-    gap: 60px;
-    font-size: 18px;
+    gap: 37px;
+    font-size: 15px;
+    font-family: Vazirmatn;
 }
 .menu-item-1{
      color: #e2c582;
