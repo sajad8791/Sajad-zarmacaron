@@ -2,7 +2,10 @@
     width: 100%;
     height: 110px;
     background-color: #003365;
-   
+   position: fixed;
+   top: 0;
+   left: 0;
+   z-index: 5;
 }
 html,
 body {
@@ -18,9 +21,7 @@ body {
 .header .wrapper {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    position: fixed;
-    margin-left: 20%;
+    justify-content: center;
     gap: 118px;
 }
 
@@ -98,6 +99,7 @@ body {
     height: 60%;
     padding: 1px;
     border-radius: 20px;
+    margin-top: 133px;
 }
 .text-2 {
     margin: 60px;
