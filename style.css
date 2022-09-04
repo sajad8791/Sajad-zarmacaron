@@ -200,7 +200,10 @@ table {
 #aks9 {
     width: 300px;
     height: 250px;
-    background-color: aqua;
+    margin: 0 auto;
+    background-color: #e2c582;
+    border-radius: 25px;
+    width: 382px;
 }
 
 #aks10 {
