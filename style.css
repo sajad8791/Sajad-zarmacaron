@@ -207,9 +207,10 @@ table {
 }
 
 #aks10 {
-    width: 300px;
-    height: 250px;
-    background-color: #e71;
+    width: 381px;
+    height: 249px;
+    background-color: #e2c582;
+    border-radius: 25px;
 }
 
 #aks11 {
@@ -245,6 +246,7 @@ td {
 .link-1{
     color: #444444;
     text-decoration: none;
+    transition: 0.3s;
 }
 
 .link-1:hover {
@@ -309,7 +311,7 @@ p{
 }
 .text-5{
     font-size: 28px;
-    padding-right: 175px;
+    padding-right: 225px;
     text-align: right;
     margin-top: 150px;
     float: right;
@@ -318,8 +320,24 @@ p{
 }
 .section{
     background-color: #f1f1f1;
-    width:100%;
+    width: 100%;
     height: 300px;
-    margin-top: 268px;
+    margin-top: 59px;
     position: relative;
+    float: right;
+}
+.aks13{
+    max-width: 18%;
+    width: 14%;
+    height: 95%;
+    border: 3px solid white;
+    border-radius: 15.5px;
+    float: right;
+    margin: 70px;
+    position: relative;
+    box-sizing: border-box;
+}
+.img{
+    position: absolute;
+    left: 550px;
 }
