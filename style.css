@@ -292,7 +292,7 @@ p{
     display: block;
     font-size: 16px;
     max-width: 350px;
-    text-align: justify;
+    text-align: right;
     font-family:Vazirmatn SemiBold;
     color:#ffffff;
     line-height: 38px;
@@ -422,7 +422,7 @@ p{
     background-color: #003365;
     padding: 0;
     margin: 0;
-    height: 40%;
+    height: 50%;
     margin-top: 988px;
     z-index: 5;
     position: relative;
@@ -452,4 +452,26 @@ p{
     margin-top: 76px;
     color: white;
     font-family: B Nazanin;
+}
+.font{
+    font-size: 19px;
+    position: relative;
+    float: left;
+    left: -134px;
+    margin-top: 135px;
+    color: white;
+    font-family: B Nazanin;
+    max-width: 316px;
+    text-align: right;
+}
+.font2{
+    font-size: 19px;
+    position: relative;
+    float: left;
+    left: -134px;
+    margin-top: 135px;
+    color: white;
+    font-family: B Nazanin;
+    max-width: 316px;
+    text-align: right;
 }
